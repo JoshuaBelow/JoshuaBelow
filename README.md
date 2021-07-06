@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoshuaBelow
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Angular and ts
+- 📫 How to reach me https://www.linkedin.com/in/joshua-below-9a8550187/
