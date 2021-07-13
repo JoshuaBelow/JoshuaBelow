@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @JoshuaBelow
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Angular and ts
-- 📫 How to reach me https://www.linkedin.com/in/joshua-below-9a8550187/
 ### <div align="center">Hello there! My name is Joshua Below and I'm a front end developer </div>  
   
 
 - 🌱 I’m currently learning AngularJS and Typescript   
-  
+- ⚡ Fun fact: I'm a productivity nerd (really into scrum right now) and I somehow still use pen and paper for righting down tasks 
 
 <br/>  
 
