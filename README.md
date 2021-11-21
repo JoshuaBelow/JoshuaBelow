@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AngularJS and Typescript   
   
 
-- ⚡ Fun fact: I'm a productivity nerd, but I somehow still use pen and paper for righting down tasks  
+- ⚡ Fun fact: I'm a productivity nerd, but I somehow still use pen and paper for writing down tasks  
   
 
 <br/>  
